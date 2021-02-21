@@ -23,7 +23,8 @@ const FILES_TO_CACHE = [
   
     self.skipWaiting();
   });
-  
+
+// activate
   self.addEventListener("activate", function(evt) {
     evt.waitUntil(
       caches.keys().then(keyList => {
