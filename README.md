@@ -13,7 +13,7 @@
 
 ### Overview
 🔍<br />
-Budget tracking application that works online and offline. 
+Progressive Budget tracking application that works online and offline. It takes advantage of cache storage to quick loading and as well as local storage (IndexedDB) to keep your data until you are online.
 
 ### Table of Contents
 📑<br />
@@ -27,7 +27,7 @@ Budget tracking application that works online and offline.
 
 ### Demo
 🎥<br /> 
-[Workout Tracker Live Link](https://progressive-budget-tracker-kai.herokuapp.com/)
+[Progressive Budget Tracker Live Link](https://progressive-budget-tracker-kai.herokuapp.com/)<br />
 <img src="public\img\Budget_Tracker.gif" width="1000"><br />
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-blue" />
