@@ -1,4 +1,4 @@
-# Spas For Paws
+# Progressive Budget Tracker
 
 <p align="center">
 <img src="https://img.shields.io/badge/license-MIT-yellow" />
@@ -13,7 +13,7 @@
 
 ### Overview
 🔍<br />
-Progressive Budget tracking application that works online and offline. It takes advantage of cache storage to quick loading and as well as local storage (IndexedDB) to keep your data until you are online.
+Progressive budget tracking application that works online and offline. It takes advantage of cache storage to quick loading and as well as local storage (IndexedDB) to keep your data until you are online.
 
 ### Table of Contents
 📑<br />
