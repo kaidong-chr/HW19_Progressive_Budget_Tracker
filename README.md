@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/kaidong-chr/HW17_budget_Tracker" />
-    <img src="https://img.shields.io/github/languages/top/kaidong-chr/HW17_Workout_Tracker"  />
-    <img src="https://img.shields.io/github/issues/kaidong-chr/HW17_Workout_Tracker" />
-    <img src="https://img.shields.io/github/last-commit/kaidong-chr/HW17_Workout_Tracker" >
+    <img src="https://img.shields.io/github/repo-size/kaidong-chr/HW19_Progressive_Budget_Tracker" />
+    <img src="https://img.shields.io/github/languages/top/kaidong-chr/HW19_Progressive_Budget_Tracker"  />
+    <img src="https://img.shields.io/github/issues/kaidong-chr/HW19_Progressive_Budget_Tracker" />
+    <img src="https://img.shields.io/github/last-commit/kaidong-chr/HW19_Progressive_Budget_Tracker" >
 </p>
 
 ### Overview
