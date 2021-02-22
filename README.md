@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/kaidong-chr/HW17_Workout_Tracker" />
+    <img src="https://img.shields.io/github/repo-size/kaidong-chr/HW17_budget_Tracker" />
     <img src="https://img.shields.io/github/languages/top/kaidong-chr/HW17_Workout_Tracker"  />
     <img src="https://img.shields.io/github/issues/kaidong-chr/HW17_Workout_Tracker" />
     <img src="https://img.shields.io/github/last-commit/kaidong-chr/HW17_Workout_Tracker" >
@@ -45,11 +45,10 @@ Budget tracking application that works online and offline.
 
 ### Usage
 💻<br />
-In VS Code terminal, install the npm dependencies, then run <i>node server.js</i> in the terminal to start the app and create the workout database.<br />
-You can choose to seed the database by running <i>node seeders/seed.js</i> in the terminal<br />
+In VS Code terminal, install the npm dependencies, then run <i>node server.js</i> in the terminal to start the app and create the budget database.<br />
 In a browser, navigate to http://localhost:8080/ to view the site.<br />
-You can create new workouts, or continue to add on to previous workouts.<br />
-You can view dashboard to see graph and pie charts of your workouts.<br />
+You can add new budget items online, or bring up the dev console take the app offline in the Network tab, then add new budget items.<br />
+Once you bring the app back online all your offline entries will persist, you can also check CompassDB to see these entries registered.<br />
 
 ### Installation
 💾<br />
