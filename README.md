@@ -32,9 +32,12 @@ Budget tracking application that works online and offline.
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-blue" />
     <img src="https://img.shields.io/badge/-node.js-green" />
-    <img src="https://img.shields.io/badge/-express-red" >
-    <img src="https://img.shields.io/badge/mongoose-light"  />
-    <img src="https://img.shields.io/badge/morgan-yellow"  />
+    <img src="https://img.shields.io/badge/-express-red" />
+    <img src="https://img.shields.io/badge/mongoose-light" />
+    <img src="https://img.shields.io/badge/morgan-yellow" />
+    <img src="https://img.shields.io/badge/compression-gray" />
+    <img src="https://img.shields.io/badge/lite server-orange" />
+    <img src="https://img.shields.io/badge/dotenv-blue" />
 </p>
 
 ### Prerequisites 
