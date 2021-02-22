@@ -28,7 +28,7 @@ Budget tracking application that works online and offline.
 ### Demo
 🎥<br /> 
 [Workout Tracker Live Link](https://progressive-budget-tracker-kai.herokuapp.com/)
-<img src="public\assets\img\workout.gif" width="1000"><br />
+<img src="public\img\Budget_Tracker.gif" width="1000"><br />
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-blue" />
     <img src="https://img.shields.io/badge/-node.js-green" />
